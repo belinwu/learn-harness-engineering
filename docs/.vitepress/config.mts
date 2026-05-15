@@ -589,11 +589,6 @@ export default withMermaid(
       }
     },
     locales: {
-      root: {
-        label: "English",
-        lang: "en",
-        link: "/en/"
-      },
       en: {
         label: "English",
         lang: "en",
