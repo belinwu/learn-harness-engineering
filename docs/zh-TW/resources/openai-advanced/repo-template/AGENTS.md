@@ -52,4 +52,4 @@
 2. 如果產品領域或架構層有明顯變化，更新 `docs/QUALITY_SCORE.md`。
 3. 如果有延期處理的債務，記到 `docs/exec-plans/tech-debt-tracker.md`。
 4. 已完成的計畫及時移到 `docs/exec-plans/completed/`。
-5. 保證儲存庫可重啟，並留下清晰的下一步動作。
+5. 保證儲存庫可重啟，並留下明確的下一步動作。
