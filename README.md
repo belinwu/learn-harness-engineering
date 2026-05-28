@@ -387,6 +387,7 @@ Each phase takes about a week if you're going part-time. If you want to go faste
 - [العربية](https://walkinglabs.github.io/learn-harness-engineering/ar/resources/) — قوالب، قوائم تحقق ومراجع
 - [Tiếng Việt](https://walkinglabs.github.io/learn-harness-engineering/vi/resources/) — mẫu, danh sách kiểm tra và tài liệu tham khảo
 - [Oʻzbekcha](https://walkinglabs.github.io/learn-harness-engineering/uz/resources/) — andozalar, tekshiruv roʻyxatlari va maʼlumotnomalar
+- [Türkçe](https://walkinglabs.github.io/learn-harness-engineering/tr/resources/) — şablonlar, kontrol listeleri ve başvurular
 
 ---
 
@@ -530,16 +531,13 @@ learn-harness-engineering/
 ├── docs/                          # VitePress documentation site
 │   ├── lectures/                  # 12 lectures (index.md + code/ examples)
 │   │   ├── lecture-01-*/
-│   │   ├── lecture-02-*/
 │   │   └── ... (12 total)
 │   ├── projects/                  # 6 project descriptions
 │   │   ├── project-01-*/
 │   │   └── ... (6 total)
-│   └── resources/                 # Multilingual templates & references
-│       ├── en/                    # English templates, checklists, guides
-│       ├── zh/                    # Chinese templates, checklists, guides
-│       ├── ru/                    # Russian templates, checklists, guides
-│       └── vi/                    # Vietnamese templates, checklists, guides
+│   └── resources/                 # Multilingual templates & references (13 languages)
+│       ├── en/
+│       └── ... (13 total)
 ├── projects/
 │   ├── shared/                    # Shared Electron + TypeScript + React foundation
 │   └── project-NN/                # Per-project starter/ and solution/ directories
