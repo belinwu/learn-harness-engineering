@@ -1146,7 +1146,7 @@ export default withMermaid(
             },
             {
               text: "Experimente Harness ↗",
-              link: "https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/en/resources/templates/index.md",
+              link: "https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/pt-BR/resources/templates/index.md",
               target: "_blank",
               rel: "noopener noreferrer",
             },
