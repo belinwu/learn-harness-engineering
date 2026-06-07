@@ -291,7 +291,7 @@ learn-harness-engineering/
 
 Este repositório também inclui skills reutilizáveis de agentes de IA que você pode instalar diretamente em seu IDE ou espaço de trabalho de agente.
 
-- [**harness-creator**](./skills/harness-creator/): Uma skill que ajuda você a estruturar um harness de nível de produção para seu próprio projeto em minutos.
+- [**harness-creator**](../../skills/harness-creator/): Uma skill que ajuda você a estruturar um harness de nível de produção para seu próprio projeto em minutos.
 
 ---
 
